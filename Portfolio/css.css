@@ -245,7 +245,7 @@ footer {
   margin-left: 220px;
 }
 
-/* RESPONSIVE DESIGN UNTUK HP / LAYAR KECIL */
+/* khusus di HP lowkey */
 @media (max-width: 768px) {
   body {
     margin-left: 0;
