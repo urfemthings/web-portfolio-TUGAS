@@ -6,9 +6,8 @@ html {
 body {
   margin: 0;
   margin-left: 220px; /* Jarak untuk sidebar di layar besar */
-  background: #0f1115; /* Hitam gelap yang nyaman di mata */
-  color: #e2e8f0;    /* Teks putih/abu terang */
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #0f1115; /* Hitam gelap */
+  color: #e2e8f0;    /* Teks putih */
 }
 
 /* Sidebar Navigation */
